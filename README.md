@@ -69,7 +69,7 @@ Source: [Kaggle — blastchar/telco-customer-churn](https://www.kaggle.com/datas
 ## Tools Used
 
 - **Microsoft Excel** — data cleaning, pivot tables, and chart-based analysis
-- **Microsoft Word ( (exported to PDF to preserve formatting).** — business understanding and dataset inspection reporting
+- **Microsoft Word (exported to **PDF** to preserve formatting).** — business understanding and dataset inspection reporting
 - **Microsoft PowerPoint** — stakeholder presentation
 
 ## Author
