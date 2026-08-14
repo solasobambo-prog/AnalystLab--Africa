@@ -9,7 +9,7 @@
 
 ## Overview
 
-A national retail company needed a way for senior management to actually *see* the business — sales performance, profitability, customer behavior, and regional results — without waiting on manual reports. This project puts me in the role of a Junior Business Intelligence Analyst at AnalystLab Africa Consulting, tasked with turning raw retail transaction data into a fully interactive executive dashboard in Power BI.
+A national retail company needed a way for senior management to actually *see* the business sales performance, profitability, customer behavior, and regional results without waiting on manual reports. This project puts me in the role of a Junior Business Intelligence Analyst at AnalystLab Africa Consulting, tasked with turning raw retail transaction data into a fully interactive executive dashboard in Power BI.
 
 The result is a 3-page dashboard covering **$2.30M in total sales**, **$286.4K in total profit**, and **5,009 orders** across four regions and three customer segments, from 2014–2017.
 
@@ -25,7 +25,7 @@ The result is a 3-page dashboard covering **$2.30M in total sales**, **$286.4K i
 
 ## Dashboard Structure
 
-**Cover Page** — Executive landing page with headline KPIs and navigation to each section.
+**Home** — Executive landing page with headline KPIs and navigation to each section.
 
 **Sales Performance** — Total Sales, Average Sales, Total Orders, Top 5 Products, Sales by State (map), Sales by Segment/Category/Region, and a 12-month Sales Trend.
 
@@ -33,15 +33,15 @@ The result is a 3-page dashboard covering **$2.30M in total sales**, **$286.4K i
 
 **Insights & Recommendations** — Key Insights, Business Risks, Business Opportunities, and actionable Recommendations, all directly evidenced by the dashboard.
 
-Every visual is fully cross-filterable — selecting a state in the Matrix, a slice in a donut chart, or a bar in any chart dynamically filters the rest of the page, so management can drill into any region, segment, or category interactively.
+Every visual is fully cross-filterable selecting a state in the Matrix, a slice in a donut chart, or a bar in any chart dynamically filters the rest of the page, so management can drill into any region, segment, or category interactively.
 
 ## Key Insights
 
-1. **The West Region leads in both sales and profit** — $0.73M in sales and $0.11M in profit, ahead of every other region.
+1. **The West Region leads in both sales and profit**  $0.73M in sales and $0.11M in profit, ahead of every other region.
 2. **Technology is the most profitable category** ($0.15M profit), while **Furniture lags behind** at just $0.02M.
 3. **The Consumer segment generates the highest revenue**, contributing over 50% of total sales.
 4. **Sales rise strongly in the last quarter of the year**, with November and December consistently the two strongest months.
-5. **Profit is concentrated in a small number of top-performing products** — the top 5 products alone account for a disproportionate share of total profit.
+5. **Profit is concentrated in a small number of top-performing products**, the top 5 products alone account for a disproportionate share of total profit.
 
 ## Business Risks
 
@@ -58,7 +58,7 @@ Every visual is fully cross-filterable — selecting a state in the Matrix, a sl
 ## Recommendations
 
 1. Strengthen sales and marketing efforts in the Central and South regions, using approaches that worked in the West.
-2. Review the Furniture category — identify loss-making products and consider reducing discounts, renegotiating costs, or discontinuing the worst performers.
+2. Review the Furniture category, identify loss-making products and consider reducing discounts, renegotiating costs, or discontinuing the worst performers.
 3. Increase focus on Technology products with more marketing budget and sales attention.
 4. Protect and promote the top profitable products, ensuring strong stock availability and visibility.
 5. Align inventory and marketing activity with seasonal sales peaks, especially Q4.
